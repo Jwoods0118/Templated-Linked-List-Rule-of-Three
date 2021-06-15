@@ -1,10 +1,3 @@
-//
-//  Runner.cpp
-//  Project 5 - Templates
-//
-//  Created by Nathenael Dereb
-//
-
 #ifndef RUNNER_CPP
 #define RUNNER_CPP
 
